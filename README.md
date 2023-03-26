@@ -1,6 +1,8 @@
 ### Hi there 👋
 ## 🌱 I’m currently learning Flutter
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni)
+
 <!--
 **dieginin/dieginin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
