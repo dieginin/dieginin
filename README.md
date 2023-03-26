@@ -3,6 +3,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dieginin&hide_border=true&border_radius=0)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dieginin&theme=transparent&hide_border=true&border_radius=0&mode=weekly)
 
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,flutter,dart,vscode,postman,php,mongodb,mysql,figma,docker)
+
 <!--
 **dieginin/dieginin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
