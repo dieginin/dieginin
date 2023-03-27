@@ -8,10 +8,8 @@
 🎭 I use tabs over spaces
 ## 🔥 My current streak
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=dieginin&theme=merko&hide_border=true&border_radius=0&background=EBEBEB00" />
-    <img src="https://streak-stats.demolab.com?user=dieginin&theme=blood&hide_border=true&border_radius=0&mode=weekly&background=EBEBEB00&fire=EB5454" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=dieginin&theme=merko&hide_border=true&border_radius=0&background=EBEBEB00" />
+  <img src="https://streak-stats.demolab.com?user=dieginin&theme=blood&hide_border=true&border_radius=0&mode=weekly&background=EBEBEB00&fire=EB5454" />  
 
   <br />
   
@@ -66,9 +64,9 @@
 
 <div align="center">
   <!--
-  <a href="https://paypal.me/dieginin" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center" />
-  </a>
+    <a href="https://paypal.me/dieginin" target="_blank" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center" />
+    </a>
   -->
   
   <a href="https://www.buymeacoffee.com/dieginin" target="_blank" style="display: inline-block;">
