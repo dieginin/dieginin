@@ -19,6 +19,9 @@
 
 ## 🛠️ Some tools I use
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=autocad" />
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=dart" />
   <img src="https://skillicons.dev/icons?i=discord" />
@@ -28,6 +31,7 @@
   <img src="https://skillicons.dev/icons?i=flutter" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=graphql" />
   <img src="https://skillicons.dev/icons?i=heroku" />
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=js" />
@@ -39,6 +43,7 @@
   <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
   <img src="https://skillicons.dev/icons?i=replit" />
   <img src="https://skillicons.dev/icons?i=sass" />
   <img src="https://skillicons.dev/icons?i=sqlite" />
