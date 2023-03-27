@@ -78,12 +78,14 @@
 
   <br />
   
+  <img src="https://img.shields.io/badge/os-Windows-ff69b4.svg" />
+  <img src="https://img.shields.io/badge/os-Linux-teal.svg" />
   <img src="https://svgshare.com/i/ZjP.svg" />
   <img src="https://img.shields.io/badge/os-iOS-green.svg" />
   <img src="https://img.shields.io/badge/os-WatchOS-green.svg" />
-  <img src="https://img.shields.io/badge/os-PaddOS-green.svg" />
+  <img src="https://img.shields.io/badge/os-PadOS-green.svg" />
   <img src="https://visitor-badge.glitch.me/badge?page_id=dieginin.visitor-badge&right_color=orange" />
-  <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" />
+  <!-- <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" /> -->
 </p> 
 
 <div align="center">
