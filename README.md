@@ -15,10 +15,8 @@
 
 ## 🛠️ Some tools I use
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,dart,discord,docker,figma,firebase,flutter,git,github,heroku,html,js,md,mongodb,mysql" />
-    <img src="https://skillicons.dev/icons?i=nodejs,php,postman,py,replit,sass,sqlite,stackoverflow,vscode,xd" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=css,dart,discord,docker,figma,firebase,flutter,git,github,heroku,html,js,md" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,nodejs,php,postman,py,replit,sass,sqlite,stackoverflow,vscode,xd" />
 </p>
 
 <p align="center">
