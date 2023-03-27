@@ -1,9 +1,12 @@
 ### Hi there 👋
 #### 🌱 I’m currently learning Flutter
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dieginin&hide_border=true&border_radius=0)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dieginin&theme=transparent&hide_border=true&border_radius=0&mode=weekly)
-
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,flutter,dart,vscode,postman,php,mongodb,mysql,figma,docker)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dieginin&theme=merko&hide_border=true&border_radius=0&background=EBEBEB00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dieginin&theme=blood&hide_border=true&border_radius=0&mode=weekly&background=EBEBEB00&fire=EB5454)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,dart,discord,docker,figma,firebase,flutter,git,github,heroku,html,js,md,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,postman,py,replit,sass,sqlite,stackoverflow,vscode,xd" />
+ </p>
 
 <!--
 **dieginin/dieginin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
