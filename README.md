@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRkMTNjZGQ1MzMwNzE2NTZiYjJjODlhNzlmNGRkZmZhYmIyOTU0NyZjdD1n/h4t9yFCevPDgafwjwm/giphy.gif" align="center" style="width: 100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1wdHdyN3B5ZHJkbjc4bDg5ajE3NDhyeGtlYjRyeTRwYml0Z3E1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/94mRjf8SWopVVxfjHe/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
 ⚡ My name is Diego Balestra and I'm 28, I'm a freelance and student developer  
