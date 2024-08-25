@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1wdHdyN3B5ZHJkbjc4bDg5ajE3NDhyeGtlYjRyeTRwYml0Z3E1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/94mRjf8SWopVVxfjHe/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
-⚡ My name is Diego Balestra and I'm 28, I'm a freelance and student developer  
+⚡ My name is Diego Balestra and I'm 29, I'm a freelance and student developer  
 👀 I’m interested in Coding, Video Games, Legos and Snowboarding!  
 🌱 I’m currently learning a lot of stuff  
 🎭 I use tabs over spaces
